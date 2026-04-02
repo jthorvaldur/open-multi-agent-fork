@@ -2,7 +2,7 @@
 
 Build AI agent teams that decompose goals into tasks automatically. Define agents with roles and tools, describe a goal — the framework plans the task graph, schedules dependencies, and runs everything in parallel.
 
-3 runtime dependencies. 20 source files. One `runTeam()` call from goal to result.
+3 runtime dependencies. 27 source files. One `runTeam()` call from goal to result.
 
 [![GitHub stars](https://img.shields.io/github/stars/JackChen-me/open-multi-agent)](https://github.com/JackChen-me/open-multi-agent/stargazers)
 [![license](https://img.shields.io/github/license/JackChen-me/open-multi-agent)](./LICENSE)
