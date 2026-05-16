@@ -9,3 +9,7 @@ dist/
 .DS_Store
 promo-*.md
 non-tech_*/
+
+# Python
+__pycache__/
+*.pyc
